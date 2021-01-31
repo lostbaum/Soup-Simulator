@@ -1,0 +1,7 @@
+name: Soup
+version: 1.0
+main: de.lostbaum.main.Main
+api-version: 1.13
+
+commands:
+  set:
